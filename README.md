@@ -1,4 +1,4 @@
-# 🍰 Sweetella Cake Shop – React Version
+# 🍰 Sweetella Cake Shop - Webapp – React
 
 A modern, responsive cake shop website built using **React**, showcasing delightful cake menus, customer testimonials, a gallery, and a contact form.
 
@@ -10,4 +10,18 @@ A modern, responsive cake shop website built using **React**, showcasing delight
 
 ---
 
-## 📁 Folder Structure
+## Technologies Used
+
+\*\* React 18 – For building UI with reusable components
+
+Vite (or Create React App) – Development server and build tool
+
+CSS – Styling and responsive layouts
+
+Google Fonts – Custom typography
+
+react-icons – For menu hamburger and close icons
+
+Font Awesome CDN – Social media icons
+
+Swiper.js (v11) – Responsive testimonial carousel slider
