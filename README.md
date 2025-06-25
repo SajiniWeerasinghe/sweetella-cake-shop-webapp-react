@@ -12,7 +12,7 @@ A modern, responsive cake shop website built using **React**, showcasing delight
 
 ## Technologies Used
 
-\*\* React 18 – For building UI with reusable components
+React – For building UI with reusable components
 
 Vite (or Create React App) – Development server and build tool
 
