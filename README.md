@@ -10,7 +10,7 @@ A modern, responsive cake shop website built using **React**, showcasing delight
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 React – For building UI with reusable components
 
