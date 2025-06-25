@@ -6,7 +6,7 @@ A modern, responsive cake shop website built using **React**, showcasing delight
 
 ## 🖼️ Demo
 
-**[Live Demo (optional)](https://sweetella-cake-shop-webapp-react.vercel.app/)**
+**[Live Demo](https://sweetella-cake-shop-webapp-react.vercel.app/)**
 
 ---
 
