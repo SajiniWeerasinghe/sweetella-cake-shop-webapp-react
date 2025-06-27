@@ -4,6 +4,12 @@ A modern, responsive cake shop website built using **React**, showcasing delight
 
 ---
 
+## 🎨 Figma Design
+
+**[View the Figma Design](https://www.figma.com/design/Ie5q4CissuwfnX3laCwwNj/Sweetella?node-id=0-1&t=kLAO19rtXwlqLTha-1)**
+
+---
+
 ## 🖼️ Demo
 
 **[Live Demo](https://sweetella-cake-shop-webapp-react.vercel.app/)**
